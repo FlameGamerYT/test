@@ -17,7 +17,7 @@ This project was created for the popular restaurant Mombar located at 25-22 Stei
 
 ## Installation
 To run the project locally, follow these steps:
-1. Download the code from [GitHub](https://github.com/your-username/Mombar-NYC-Checkout-Project).
+1. Download the code from [GitHub](https://github.com/busratas54/Mombar-NYC-Checkout-Project).
 2. Unzip the folder named "Completed Project".
 3. Open the `registration.html` page inside the "Completed Project" folder using your preferred web browser (Chrome, Edge, or another Chromium-based browser is recommended).
 Note: You do not need to use the `registration.html` page as it should redirect you to the login page regardless of what page you access when you are not logged in.
