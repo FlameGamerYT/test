@@ -1,8 +1,5 @@
 # Mombar-NYC-Checkout-Project
 
-## Description
-A menu and checkout project for the NYC restaurant Mombar. This project was created for the popular restaurant Mombar located at 25-22 Steinway street Astoria New York. It contains the full menu and images for each item, with a functional login and checkout system.
-
 - [Mombar-NYC-Checkout-Project](#mombar-nyc-checkout-project)
   * [Description](#description)
   * [Requirements](#requirements)
@@ -10,8 +7,8 @@ A menu and checkout project for the NYC restaurant Mombar. This project was crea
   * [Usage](#usage)
     + [Updating the Menu](#updating-the-menu)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+## Description
+A menu and checkout project for the NYC restaurant Mombar. This project was created for the popular restaurant Mombar located at 25-22 Steinway street Astoria New York. It contains the full menu and images for each item, with a functional login and checkout system.
 
 ## Requirements
 - A web browser (Chrome, Edge, or another Chromium-based browser is recommended).
